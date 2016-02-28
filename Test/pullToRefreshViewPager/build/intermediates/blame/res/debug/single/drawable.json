@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Anna/AndroidStudioProjects/Test/pullToRefreshViewPager/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/Anna/AndroidStudioProjects/Test/pullToRefreshViewPager/build/intermediates/exploded-aar/Test/library/unspecified/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/Anna/AndroidStudioProjects/Test/pullToRefreshViewPager/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/Anna/AndroidStudioProjects/Test/pullToRefreshViewPager/build/intermediates/exploded-aar/Test/library/unspecified/res/drawable/indicator_bg_bottom.xml"
+    }
+]
